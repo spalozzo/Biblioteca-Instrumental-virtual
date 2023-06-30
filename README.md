@@ -1,2 +1,2 @@
 # Biblioteca-Instrumental-virtual
-Biblioteta de funciones de medidas para practicas de instrumental virtual
+Biblioteca de funciones de Medidas I para practicas de instrumental virtual
